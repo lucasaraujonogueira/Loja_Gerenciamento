@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078787584942",
+    "project_id": "lojagerencia-2c546",
+    "storage_bucket": "lojagerencia-2c546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078787584942:android:61e5b22630e61f56a74e3f",
+        "android_client_info": {
+          "package_name": "br.com.nogueiraapp.loja_gerencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078787584942-95bic2ki1qlsmbkf4p9lrhj7mlsjcp47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAwu179Rf3OxGxj-JBTP0OXO1n3RDR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078787584942-95bic2ki1qlsmbkf4p9lrhj7mlsjcp47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
